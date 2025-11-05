@@ -7,5 +7,5 @@ By Yanjie Ze, Siheng Zhao, Weizhuo Wang, Angjoo Kanazawa†, Rocky Duan†, Piet
 [[Video]](https://youtu.be/lTtEvI0kUfo)
 
 # News
-- **2025-11-05**. TWIST2 is released. Full code will be released within 2 weeks (mostly ready and under the internal process). Please stay tuned.
+- **2025-11-05**. TWIST2 is released. Full code will be released within 1 month (mostly ready and under the internal process). Please stay tuned.
 
